@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ERMS/.idea/ERMS.iml" filepath="$PROJECT_DIR$/ERMS/.idea/ERMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/my-first-learning-repo.iml" filepath="$PROJECT_DIR$/.idea/my-first-learning-repo.iml" />
+    </modules>
+  </component>
+</project>
